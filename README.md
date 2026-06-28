@@ -19,7 +19,7 @@ The dataset used for this project is publicly available on Kaggle:
 ## 🔍 Structural Fraud Drivers (Feature Importance)
 The model relies heavily on key underlying variance components extracted from transaction signatures. Below is the relative distribution weight of the top 10 fraud indicators:
 
-![Top 10 Feature Importances Driving Fraud Detection] <img width="989" height="590" alt="download" src="https://github.com/user-attachments/assets/a4c203cf-ecf7-42db-8687-566536925869" />
+ <img width="989" height="590" alt="download" src="https://github.com/user-attachments/assets/a4c203cf-ecf7-42db-8687-566536925869" />
 
 
 ## 🚀 Core Technologies Used
